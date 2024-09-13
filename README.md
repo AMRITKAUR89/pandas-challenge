@@ -1,5 +1,5 @@
 # pandas-challenge
-## LGA
+## LGA Summary
 Task- Perform the necessary calculations and then create a high-level snapshot of the local government area's key metrics in a DataFrame.
 
 
@@ -18,9 +18,9 @@ Task- Perform the necessary calculations and then create a high-level snapshot o
 ![image](https://github.com/user-attachments/assets/dcf2f6d9-e337-4252-afe1-20f0b1fd6bb3)
 ### School Summary Output
 ![image](https://github.com/user-attachments/assets/e7c336c3-40d3-485e-8b5e-197f00c1e549)
-## Top Performing Schools Output
+## Highest-Performing Schools (by % Overall Passing) Output
 ![image](https://github.com/user-attachments/assets/6adde186-7443-4101-8223-8fc4b33c7527)
-## Bottom Performing Schools Output
+## Lowest-Performing Schools (by % Overall Passing) Output
 ![image](https://github.com/user-attachments/assets/2495a6ff-fdd2-4f48-adb3-215f192f7676)
 ## Maths Scores by Year
 ![image](https://github.com/user-attachments/assets/a1e387cc-472d-4e45-ac8a-19f256f4a0a6)
